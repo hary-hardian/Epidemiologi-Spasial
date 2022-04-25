@@ -1,5 +1,5 @@
 # Epidemiologi-Spasial
-This repository was created for the data using in all courses of Spasial Epidemiology field.
+This repository was created to store all data for spatial epidemiology courses.
 # RS Jabar BPS
 Number of hospitals by regency in Jawa Barat Province according to "Jawa Barat dalam Angka (Jawa Barat Province in Figures) 2022" published by BPS Provinsi Jawa Barat 2022. ISSN: 0215-2169, Publication Number: 32000.2204, Katalog /Catalog: 1102001.3. Free access : https://jabar.bps.go.id/publication/2022/02/25/0d261f828b581d8082bbc6c1/provinsi-jawa-barat-dalam-angka-2022.html
 # RS Jabar OD
