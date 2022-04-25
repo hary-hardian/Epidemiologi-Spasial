@@ -1,46 +1,46 @@
-1;d.kode_rs;d.nama_rs;d.nama_prop;d.jenis_rs;d.kelas;d.pemilik;(d.total_tt)
-2;3207059;RS Khusus Bedah RSOP Ciamis;JAWA BARAT;RSK BEDAH;Belum Ditetapkan;SWASTA/ LAINNYA;52
-3;3212056;RS Umum Daerah Mursid Ibnu Syafiuddin;JAWA BARAT;RSU;Belum Ditetapkan;Pemkab;0
-4;3274075;RS Umum Budi Luhur;JAWA BARAT;RSU;Belum Ditetapkan;Organisasi Sosial;47
-5;3203041;RS Bhayangkara Cianjur;JAWA BARAT;RSU;D;POLRI;0
-6;3204134;RSUD Kesehatan Kerja;JAWA BARAT;RSU;D;Pemprop;0
-7;3212060;RS Sentra Medika Langut;JAWA BARAT;RSU;D;SWASTA/ LAINNYA;42
-8;3275068;RS Umum Daerah Bantar Gebang;JAWA BARAT;RSU;D;Pemkot;24
-9;3275067;RS Umum Pondok Gede;JAWA BARAT;RSU;D;Pemkot;22
-10;3275066;RS Umum Daerah Jatisampurna;JAWA BARAT;RSU;D;Pemkot;14
-11;3212057;RS Syahid Al Irsyad;JAWA BARAT;RSU;D;SWASTA/ LAINNYA;21
-12;3208064;RS Umum Aria Kamuning;JAWA BARAT;RSU;D;SWASTA/ LAINNYA;52
-13;3208063;RS Mitra Husada Ciawigebang;JAWA BARAT;RSU;D;Perorangan;8
-14;3201254;Bogor Senior Hospital;JAWA BARAT;RSU;D;SWASTA/ LAINNYA;71
-15;3201253;RS Ibu dan Anak Melania;JAWA BARAT;RSIA;D;Organisasi Katholik;25
-16;3275064;RS Mustika Medika Bekasi;JAWA BARAT;RSU;D;Perusahaan;23
-17;3213048;RS Umum Kharisma;JAWA BARAT;RSU;D;SWASTA/ LAINNYA;27
-18;3216440;RS Umum Daerah Cabangbungin;JAWA BARAT;RSU;D;Pemkab;30
-19;3271166;RS Umum Bhayangkara Tk IV Bogor;JAWA BARAT;RSU;D;POLRI;16
-20;3213047;RS Umum Haji Syaiful Anwar;JAWA BARAT;RSU;D;SWASTA/ LAINNYA;49
-21;3217007;RS Umum Daerah Cikalong Wetan;JAWA BARAT;RSU;D;Pemkab;55
-22;3216439;RS Umum Dr. Iqbali Taufan;JAWA BARAT;RSU;D;Perorangan;0
-23;3211027;RS Umum Harapan Keluarga;JAWA BARAT;RSU;D;Perusahaan;45
-24;3215167;RS Umum Amanda Mitra Keluarga;JAWA BARAT;RSU;D;Perusahaan;37
-25;3212055;RS Umum Pertamina Balongan Indramayu;JAWA BARAT;RSU;D;BUMN;19
-26;3201249;RS Umum Asysyifaa;JAWA BARAT;RSU;D;SWASTA/ LAINNYA;37
-27;3216438;RS Umum Pinna;JAWA BARAT;RSU;D;SWASTA/ LAINNYA;55
-28;3217006;RS Umum IMC;JAWA BARAT;RSU;D;Perusahaan;40
-29;3272075;RS Umum Daerah Al-Mulk;JAWA BARAT;RSU;D;Pemkot;30
-30;3216435;RS Umum Tarumajaya;JAWA BARAT;RSU;D;SWASTA/ LAINNYA;54
-31;3203039;RS Umum Daerah Pagelaran;JAWA BARAT;RSU;D;Pemkab;75
-32;3214040;RS Umum Karina Medika;JAWA BARAT;RSU;D;Perusahaan;73
-33;3216434;RS Umum Budi Asih;JAWA BARAT;RSU;D;Perorangan;32
-34;3208060;RS Umum KMC Luragung;JAWA BARAT;RSU;D;Perusahaan;155
-35;3217004;RS Umum Daerah Lembang;JAWA BARAT;RSU;D;Pemkab;55
-36;3275057;RS Umum Karya Medika Bantar Gebang;JAWA BARAT;RSU;D;Perusahaan;59
-37;3212054;RS Umum MM Indramayu;JAWA BARAT;RSU;D;Perusahaan;78
-38;3205024;RS Umum Annisa Queen;JAWA BARAT;RSU;D;Perusahaan;21
-39;3205023;RS Umum Nurhayati Garut;JAWA BARAT;RSU;D;Organisasi Sosial;61
-40;3216426;RS Umum Kasih Insani Sukatani;JAWA BARAT;RSU;D;Perusahaan;38
-41;3215165;RS Umum Sentral Medika;JAWA BARAT;RSU;D;Perusahaan;53
-42;3216425;RS Umum Bunda Mulia;JAWA BARAT;RSU;D;SWASTA/ LAINNYA;40
-43;3215164;RS Umum Rosela;JAWA BARAT;RSU;D;Perusahaan;53
+1,d.kode_rs;d.nama_rs;d.nama_prop;d.jenis_rs;d.kelas;d.pemilik;(d.total_tt)
+2,3207059;RS Khusus Bedah RSOP Ciamis;JAWA BARAT;RSK BEDAH;Belum Ditetapkan;SWASTA/ LAINNYA;52
+3,3212056;RS Umum Daerah Mursid Ibnu Syafiuddin;JAWA BARAT;RSU;Belum Ditetapkan;Pemkab;0
+4,3274075;RS Umum Budi Luhur;JAWA BARAT;RSU;Belum Ditetapkan;Organisasi Sosial;47
+5,3203041;RS Bhayangkara Cianjur;JAWA BARAT;RSU;D;POLRI;0
+6,3204134;RSUD Kesehatan Kerja;JAWA BARAT;RSU;D;Pemprop;0
+7,3212060;RS Sentra Medika Langut;JAWA BARAT;RSU;D;SWASTA/ LAINNYA;42
+8,3275068;RS Umum Daerah Bantar Gebang;JAWA BARAT;RSU;D;Pemkot;24
+9,3275067;RS Umum Pondok Gede;JAWA BARAT;RSU;D;Pemkot;22
+10,3275066;RS Umum Daerah Jatisampurna;JAWA BARAT;RSU;D;Pemkot;14
+11,3212057;RS Syahid Al Irsyad;JAWA BARAT;RSU;D;SWASTA/ LAINNYA;21
+12,3208064;RS Umum Aria Kamuning;JAWA BARAT;RSU;D;SWASTA/ LAINNYA;52
+13,3208063;RS Mitra Husada Ciawigebang;JAWA BARAT;RSU;D;Perorangan;8
+14,3201254;Bogor Senior Hospital;JAWA BARAT;RSU;D;SWASTA/ LAINNYA;71
+15,3201253;RS Ibu dan Anak Melania;JAWA BARAT;RSIA;D;Organisasi Katholik;25
+16,3275064;RS Mustika Medika Bekasi;JAWA BARAT;RSU;D;Perusahaan;23
+17,3213048;RS Umum Kharisma;JAWA BARAT;RSU;D;SWASTA/ LAINNYA;27
+18,3216440;RS Umum Daerah Cabangbungin;JAWA BARAT;RSU;D;Pemkab;30
+19,3271166;RS Umum Bhayangkara Tk IV Bogor;JAWA BARAT;RSU;D;POLRI;16
+20,3213047;RS Umum Haji Syaiful Anwar;JAWA BARAT;RSU;D;SWASTA/ LAINNYA;49
+21,3217007;RS Umum Daerah Cikalong Wetan;JAWA BARAT;RSU;D;Pemkab;55
+22,3216439;RS Umum Dr. Iqbali Taufan;JAWA BARAT;RSU;D;Perorangan;0
+23,3211027;RS Umum Harapan Keluarga;JAWA BARAT;RSU;D;Perusahaan;45
+24,3215167;RS Umum Amanda Mitra Keluarga;JAWA BARAT;RSU;D;Perusahaan;37
+25,3212055;RS Umum Pertamina Balongan Indramayu;JAWA BARAT;RSU;D;BUMN;19
+26,3201249;RS Umum Asysyifaa;JAWA BARAT;RSU;D;SWASTA/ LAINNYA;37
+27,3216438;RS Umum Pinna;JAWA BARAT;RSU;D;SWASTA/ LAINNYA;55
+28,3217006;RS Umum IMC;JAWA BARAT;RSU;D;Perusahaan;40
+29,3272075;RS Umum Daerah Al-Mulk;JAWA BARAT;RSU;D;Pemkot;30
+30,3216435;RS Umum Tarumajaya;JAWA BARAT;RSU;D;SWASTA/ LAINNYA;54
+31,3203039;RS Umum Daerah Pagelaran;JAWA BARAT;RSU;D;Pemkab;75
+32,3214040;RS Umum Karina Medika;JAWA BARAT;RSU;D;Perusahaan;73
+33,3216434;RS Umum Budi Asih;JAWA BARAT;RSU;D;Perorangan;32
+34,3208060;RS Umum KMC Luragung;JAWA BARAT;RSU;D;Perusahaan;155
+35,3217004;RS Umum Daerah Lembang;JAWA BARAT;RSU;D;Pemkab;55
+36,3275057;RS Umum Karya Medika Bantar Gebang;JAWA BARAT;RSU;D;Perusahaan;59
+37,3212054;RS Umum MM Indramayu;JAWA BARAT;RSU;D;Perusahaan;78
+38,3205024;RS Umum Annisa Queen;JAWA BARAT;RSU;D;Perusahaan;21
+39,3205023;RS Umum Nurhayati Garut;JAWA BARAT;RSU;D;Organisasi Sosial;61
+40,3216426;RS Umum Kasih Insani Sukatani;JAWA BARAT;RSU;D;Perusahaan;38
+41,3215165;RS Umum Sentral Medika;JAWA BARAT;RSU;D;Perusahaan;53
+42,3216425;RS Umum Bunda Mulia;JAWA BARAT;RSU;D;SWASTA/ LAINNYA;40
+43,3215164;RS Umum Rosela;JAWA BARAT;RSU;D;Perusahaan;53
 44;3216421;RS Umum Puspa Husada;JAWA BARAT;RSU;D;SWASTA/ LAINNYA;21
 45;3204154;RS Umum TNI AU Lanud Sulaiman;JAWA BARAT;RSU;D;TNI AU;21
 46;3275054;RS Umum As-Shofwan;JAWA BARAT;RSU;D;SWASTA/ LAINNYA;35
