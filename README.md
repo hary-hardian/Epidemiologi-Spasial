@@ -7,6 +7,6 @@ Number of hospitals by regency in Jawa Barat Province according to Open Data Jaw
 # RS Jabar Dirjen Yankes
 Number of hospitals by name in Jawa Barat according to Dirjen Yankes Kemenkes RI 2022. Free access: http://sirs.yankes.kemkes.go.id/fo/. Has been accessed on April 23, 2022.
 # Tugas 1
-Code R untuk tugas mata kuliah Analisis dan Manajemen data dengan R
+Kode R untuk tugas mata kuliah Analisis dan Manajemen data dengan R
 # w5_pef_fj_komplit2
 Dataset hasil eksport Tugas 1
