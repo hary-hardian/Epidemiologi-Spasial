@@ -10,3 +10,7 @@ Number of hospitals by name in Jawa Barat according to Dirjen Yankes Kemenkes RI
 Kode R untuk tugas mata kuliah Analisis dan Manajemen data dengan R
 # w5_pef_fj_komplit2
 Dataset hasil eksport Tugas 1
+# Agregat Jumlah Dokter Jabar (NIP)
+Tabel agregat data jumlah dokter di Jawa Barat berdasarkan NIP
+# Tugas 2 OK
+Kode R untuk tugas 2: "Agregasi Data Nakes" Mata Kuliah Analisis dan Manajemen Data dengan R
